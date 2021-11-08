@@ -1,0 +1,9 @@
+{
+	"name": "@chinchilla-software/amcharts5",
+	"private": false,
+	"version": "5.0.1",
+	"description": "Condensed version of amcharts 5",
+	"repository": "https://github.com/Chinchilla-Software-Com/amcharts5",
+	"dependencies": {
+	}
+}
